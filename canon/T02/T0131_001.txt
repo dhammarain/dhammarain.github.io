@@ -1,0 +1,40 @@
+¡i¸g¤å¸ê°T¡j¤j¥¿·s²ç¤jÂÃ¸g ²Ä¤G¥U No. 131¡m¦ò»¡±CÃ¹ªùÁ×¦º¸g¡n
+¡iª©¥»°O¿ý¡jCBETA ¹q¤l¦ò¨å V1.15 (Big5) ´¶¤Îª©¡A§¹¦¨¤é´Á¡G2003/05/07
+¡i½s¿è»¡©ú¡j¥»¸ê®Æ®w¥Ñ¤¤µØ¹q¤l¦ò¨å¨ó·|¡]CBETA¡^¨Ì¤j¥¿·s²ç¤jÂÃ¸g©Ò½s¿è
+¡i­ì©l¸ê®Æ¡j¿½Âí°ê¤j¼w´£¨Ñ¡þ±i¤å©ú¤j¼w¤G®Õ¡Aºû²ß¦w¤j¼w´£¨Ñ¡A¥_¬ü¬Y¤j¼w´£¨Ñ
+¡i¨ä¥¦¨Æ¶µ¡j¥»¸ê®Æ®w¥i¦Û¥Ñ§K¶O¬y³q¡A¸Ô²Ó¤º®e½Ð°Ñ¾\¡i¤¤µØ¹q¤l¦ò¨å¨ó·|¸ê®Æ®w°ò¥»¤¶²Ð¡j(http://www.cbeta.org/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 2, No. 131 ¦ò»¡±CÃ¹ªùÁ×¦º¸g
+# CBETA Chinese Electronic Tripitaka V1.15 (Big5) Normalized Version, Release Date: 2003/05/07
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo / proofread twice by Mr. Chang Wen-Ming, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://www.cbeta.org/result/cbintr_e.htm
+=========================================================================
+T02n0131_p0854b01ùø
+T02n0131_p0854b02ùø
+T02n0131_p0854b03ùø¡@¡@No. 131 [No. 125(31.4)]
+T02n0131_p0854b04ùø¦ò»¡±CÃ¹ªùÁ×¦º¸g
+T02n0131_p0854b05ùø
+T02n0131_p0854b06ùø¡@¡@¡@¡@«áº~¦w®§¨Fªù¦w¥@°ªÄ¶
+T02n0131_p0854b07ùø»D¦p¬O¡C¤@®É±C¦÷±C¡C¦bªÙ½Ã«°¬é¾ðµ¹©t¿W
+T02n0131_p0854b08ùø¶é¡Cº¸®É¥@´L§i½Ñ¤ñ¥C¡C©õ¦³¥|±CÃ¹ªù¥P¤H¡C
+T02n0131_p0854b09ùøºë¶i­×µ½ªk¤­³q¡C±`®£¬È¦º¡C®É¥|±CÃ¹ªù¥P
+T02n0131_p0854b10ùø¤H¡Cºë¶i­×µ½ªk¤­³q¡C«K§@¬O©À¡C§Úµ¥·í¦í¦ó
+T02n0131_p0854b11ùø³B¥Ã¦s¦b¥@¡C®É©¼¦³¤@±CÃ¹ªù¡Cºë¶i­×µ½ªk¡C
+T02n0131_p0854b12ùø¦³¤j¯«¤O¤­³q¡C«K¤JªÅ¤¤¡C©ó¤¤«hµL¦³¦º¡C©¼
+T02n0131_p0854b13ùø¤JªÅªÌ«K©R¹L¡C²Ä¤G±CÃ¹ªù¡Cºë¶i­×µ½ªk¤­
+T02n0131_p0854b14ùø³q¡C¬È¦º«K¤J¤j®ü¤¤¡C§Ú©ó®ü¤¤«hµL¦³¦º¡C©¼
+T02n0131_p0854b15ùø§Y©ó®ü¤¤©R¹L¡C²Ä¤T±CÃ¹ªù¡Cºë¶i­×µ½ªk¡C¦³
+T02n0131_p0854b16ùø¤j«Â¶Õ¤­³q¡C¬È¦º«K¤J¤s¸¡¡C§Y©ó©¼©R²×¡C©¼
+T02n0131_p0854b17ùø²Ä¥|±CÃ¹ªù¡Cºë¶i­×µ½ªk¤­³q¡C¦³¤j«Â¶Õ¡C¬È
+T02n0131_p0854b18ùø¦º«K¤J¦a¡C§Ú©ó©¼·í²æ¤£¦º¡C«K©ó¦a©R¹L¡C®É
+T02n0131_p0854b19ùø¥@´L¥H¤Ñ²´¨£²M²bµL·å¡CÆ[©¼¥|±CÃ¹ªùºë
+T02n0131_p0854b20ùø¶i­×µ½ªk¡C¦³¤j«Â¶Õ¤­³q¬È¦º¡C¤@¤H³BµêªÅ
+T02n0131_p0854b21ùø©ó©¼©R¹L¡C¤@¤H¤J®ü¥ç©ó©¼©R¹L¡C¤@¤H¤J¤s
+T02n0131_p0854b22ùø¸¡©ó©¼©R¹L¡C¤@¤H¤J¦a©ó©¼©R¹L¡Cº¸®É¥@´L
+T02n0131_p0854b23ùø¨£©¼¥|±CÃ¹ªùºë¶i­×µ½ªk¤­³q¦³¤j«Â¶Õ¡C
+T02n0131_p0854b24ùø«K»¡ÔU¨¥
+T02n0131_p0854b25ùø¡@«DªÅ«D®ü¤¤¡@¡@«D¤J¤s¥Û¶¡
+T02n0131_p0854b26ùø¡@µL¦³¦a¤è©Ò¡@¡@²æ¤§¤£¨ü¦º
+T02n0131_p0854b27ùøº¸®É¤ñ¥C»D¦ò©Ò»¡¡CÅw³ß©^¦æ
+T02n0131_p0854b28ùø¦ò»¡±CÃ¹ªùÁ×¦º¸g
