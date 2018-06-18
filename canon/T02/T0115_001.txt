@@ -1,0 +1,44 @@
+¡i¸g¤å¸ê°T¡j¤j¥¿·s²ç¤jÂÃ¸g ²Ä¤G¥U No. 115¡m¦ò»¡°¨¦³¤KºAÄ´¤H¸g¡n
+¡iª©¥»°O¿ý¡jCBETA ¹q¤l¦ò¨å V1.15 (Big5) ´¶¤Îª©¡A§¹¦¨¤é´Á¡G2003/06/23
+¡i½s¿è»¡©ú¡j¥»¸ê®Æ®w¥Ñ¤¤µØ¹q¤l¦ò¨å¨ó·|¡]CBETA¡^¨Ì¤j¥¿·s²ç¤jÂÃ¸g©Ò½s¿è
+¡i­ì©l¸ê®Æ¡j¿½Âí°ê¤j¼w´£¨Ñ¡þ±i¤å©ú¤j¼w¤G®Õ¡Aºû²ß¦w¤j¼w´£¨Ñ¡A¥_¬ü¬Y¤j¼w´£¨Ñ
+¡i¨ä¥¦¨Æ¶µ¡j¥»¸ê®Æ®w¥i¦Û¥Ñ§K¶O¬y³q¡A¸Ô²Ó¤º®e½Ð°Ñ¾\¡i¤¤µØ¹q¤l¦ò¨å¨ó·|¸ê®Æ®w°ò¥»¤¶²Ð¡j(http://www.cbeta.org/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 2, No. 115 ¦ò»¡°¨¦³¤KºAÄ´¤H¸g
+# CBETA Chinese Electronic Tripitaka V1.15 (Big5) Normalized Version, Release Date: 2003/06/23
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo / proofread twice by Mr. Chang Wen-Ming, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://www.cbeta.org/result/cbintr_e.htm
+=========================================================================
+T02n0115_p0507a04ùø
+T02n0115_p0507a05ùø
+T02n0115_p0507a06ùø¡@¡@No. 115 [No. 99(924), No. 100(149)]
+T02n0115_p0507a07ùø¦ò»¡°¨¦³¤KºAÄ´¤H¸g(¥XÂøªü§t§OÄ¶)
+T02n0115_p0507a08ùø
+T02n0115_p0507a09ùø¡@¡@¡@¡@«áº~¦è°ì¤TÂÃ¤äÂ`Ä¶
+T02n0115_p0507a10ùø»D¦p¬O¡C¤@®É¦ò¦bªÙ½Ã°ê¦æ¦b¬é¾ðµ¹©t¿W
+T02n0115_p0507a11ùø¶é¡C¦h¤ñ¥C¹¬­Ñ¡C¦ò§i½Ñ¤ñ¥C¡C°¨¦³¹ú´cºA
+T02n0115_p0507a12ùø¤K¡C¦óµ¥¤K¡C¤@ºAªÌ¸ÑÅùÅ·®É«K´w¨®±ý¨«¡C¤G
+T02n0115_p0507a13ùøºAªÌ¾r¨®¸õ[¸õ-¥ü+±ç]±ýï¿¤H¡C¤TºAªÌ«KÁ|«e¨â¸}
+T02n0115_p0507a14ùø´w¨®¨«¡C¥|ºAªÌ«KÁÏ¨®ÜF¡C¤­ºAªÌ«K¤H¥ß«ù
+T02n0115_p0507a15ùø³m¼¯×a¨®«o¦æ¡C¤»ºAªÌ«K³Ä¦æ¨¸¨«¡C¤CºAªÌ
+T02n0115_p0507a16ùø«K´w¨®¹£¨«¡C±o¿Bªd©è¤î¦í¤£´_¦æ¡C¤KºAªÌ
+T02n0115_p0507a17ùøÄa[Òþ-¢È+(°Â-¤I)]¾k¤§¼ôµø¤£ªÖ­¹¡C¨ä¥D²o¥h±ý¾r¤§¡CÁØ
+T02n0115_p0507a18ùøÐý[¤f*µ¿]¾½±ý­¹¤£¯à±o­¹¡C¦ò¨¥¡C¤H¥ç¦³¹ú´cºA
+T02n0115_p0507a19ùø¤K¡C¦óµ¥¬°¤K¡C¤@ºAªÌ»D»¡¸g«K¨«¤£±ýÅ¥¡C¦p
+T02n0115_p0507a20ùø°¨¸ÑÅùÅ·´w¨®¨«®É¡C¤GºAªÌ»D»¡¸g·N¤£¸Ñ
+T02n0115_p0507a21ùø¤£ª¾»y©Ò½ì¦V¡C«K½Q¸õ[¸õ-¥ü+±ç]¤£±ý»D¡C¦p°¨¾r¨®
+T02n0115_p0507a22ùø®É¸õ[¸õ-¥ü+±ç]±ýï¿¤H®É¡C¤TºAªÌ»D»¡¸g«K°f¤£¨ü¡C
+T02n0115_p0507a23ùø¦p°¨Á|«e¨â¸}´w¨®¨«®É¥|ºAªÌ»D»¡¸g«K
+T02n0115_p0507a24ùø½|¡C¦p°¨ÁÏ¨®ÜF®É¤­ºAªÌ»D»¡¸g¡C«K°_¥h¦p
+T02n0115_p0507a25ùø°¨¤H¡C¥ß«ù³m¼¯×a¨®«o¦æ®É¡C¤»ºAªÌ»D»¡¸g
+T02n0115_p0507a26ùø¤£ªÖÅ¥[¨õ*­¶]ÀY¨¸µø¦Õ»y¡C¦p°¨³Ä¦æ¨¸¨«®É¡C¤C
+T02n0115_p0507a27ùøºAªÌ»D»¡¸g«K±ý½aÃø¡C°Ý¤§¤£¯à¬ÛÀ³µª¡C«K
+T02n0115_p0507a28ùø¦º©è¦k»y¡C¦p°¨±o¿Bªd«K¤î¤£´_¦æ®É¡C¤KºA
+T02n0115_p0507a29ùøªÌ»D»¡¸g¤£ªÖÅ¥¡C¤Ï©ÀÔÙÌü¦h¨D¤£±ýÅ¥¨ü¡C
+T02n0115_p0507b01ùø¦º¤J´c¹D®É¡C¤DÁØ±ý¾Ç°Ý¦æ¹D¡C¥ç¤£¯à´_±o
+T02n0115_p0507b02ùø¦æ¹D¡C¦p°¨Äa[Òþ-¢È+(°Â-¤I)]ì^¤§¼ôµø¤£ªÖ­¹¡C¨ä¥D²o
+T02n0115_p0507b03ùø¥h±ý¾r¤§¡C¤DÁØÐý[¤f*µ¿]¾½¥ç¤£±o­¹¡C¦ò¨¥¡C§Ú»¡
+T02n0115_p0507b04ùø°¨¤KºA¡C´c¤H¥ç¦³¤K´cºA¦p¬O¡C½Ñ¤ñ¥C»D¸g
+T02n0115_p0507b05ùøÅw³ß¡C§@Â§¦Ó¥h
+T02n0115_p0507b06ùø¦ò»¡°¨¦³¤KºAÄ´¤H¸g
